@@ -1,6 +1,6 @@
-# oauth-nodejsPlural Sight Training - exercise: OAuth with NodeJS
+## Plural Sight Training - exercise: OAuth with NodeJS
 
-##Business Case
+### Business Case
 
 Globomantics HR wants to save on healthcare, and they came up with an interesting idea. 
 There is a company called Carved Rock Fitness, and they are a fitness company and a gym, and so Globomantics has decided to 
